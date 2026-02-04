@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: Topsis-Aartha-102302941
+Version: 1.0.5
+Author: Aartha Singh
+Author-email: Aartha.tab@gmail.com
+License: MIT
+Project-URL: Source Repository, https://github.com/WorkaholicCat/TOPSIS-pyPackage
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: requires-dist
